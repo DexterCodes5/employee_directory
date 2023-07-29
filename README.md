@@ -1,2 +1,2 @@
 # employee_directory
-Employee directory has Logging via Spring AOP.
+Employee Directory has rich and engaging Logging via Spring Aspect Oriented Programming.
